@@ -113,3 +113,7 @@ Output from our service:
 [Test]: sonarr send test event
 [Test]: sonarr send test event
 ```
+
+# Usage Examples:
+
+- [alertt](https://github.com:k-x7/alertt.git): alert user when grab or download events triggered using native system notification.
